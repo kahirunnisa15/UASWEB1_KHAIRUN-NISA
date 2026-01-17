@@ -2,7 +2,7 @@
 $host = "localhost";
 $username = "root";
 $password = "";
-$dbname = "db_penjualann2"; // gunakan nama database yang benar
+$dbname = "db_penjualann"; // gunakan nama database yang benar
 
 $conn = new mysqli($host, $username, $password, $dbname);
 
